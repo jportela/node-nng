@@ -1,0 +1,3 @@
+[submodule "deps/nng"]
+	path = deps/nng
+	url = git@github.com:nanomsg/nng.git
